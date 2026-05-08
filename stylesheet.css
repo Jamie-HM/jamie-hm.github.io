@@ -140,3 +140,9 @@ img {
 ul {
   padding-left: 16px;
 }
+
+sup {
+  vertical-align: super;
+  font-size: 0.75em;
+  line-height: 0;
+}
